@@ -1,0 +1,3 @@
+D:/Desktop/Cwork/cmake-build-debug/CMakeFiles/Cwork.dir
+D:/Desktop/Cwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Cwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
