@@ -3,4 +3,4 @@ project(Cwork)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Cwork main.cpp)
+add_executable(Cwork main.cpp solved/p2753.cpp)
