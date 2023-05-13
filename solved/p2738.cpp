@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int p2738() {
     int a[100][100], b[100][100], n, m;
     cin >> n >> m;
     for (int i = 0; i < n; ++i) {

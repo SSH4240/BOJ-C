@@ -1,3 +1,4 @@
 # ninja log v5
-0	473	7054588986416513	CMakeFiles/Cwork.dir/main.cpp.obj	95064205180dae72
-476	699	7054588988611004	Cwork.exe	df4d93d7e6ea1ada
+3	387	7056872000456586	CMakeFiles/Cwork.dir/main.cpp.obj	95064205180dae72
+388	534	7056872001875412	Cwork.exe	99e9732ee77a96bd
+3	411	7056871762160422	CMakeFiles/Cwork.dir/solved/p2753.cpp.obj	9789c809d9cc23c0
