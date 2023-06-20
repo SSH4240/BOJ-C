@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int p2501() {
     int n, k;
     int ans = 0;
     int cnt = 0;
